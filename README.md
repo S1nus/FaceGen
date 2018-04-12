@@ -1,5 +1,5 @@
 # FaceGen
-![Ghost in the Machine](ghostinthemachine.png)
+![Ghost in the Machine](ghostinmachine.png)
 * FaceGen is a Generative Adversarial Neural Network (GAN) which dreams of human faces.
 * It works by importing 10,000 .jpg files of photos of people's faces, vectorizing them, then training two neural networks (a generative, and a discriminator) on that data in order to work against each other to converge on a brand new face.
 
